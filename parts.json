@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "partName": "Тормозные колодки",
+    "partNumber": "BP-2020",
+    "price": 1500,
+    "availability": "В наличии",
+    "type": "Тормозная система"
+  },
+  {
+    "id": 2,
+    "partName": "Масляный фильтр",
+    "partNumber": "OF-2021",
+    "price": 800,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 3,
+    "partName": "Воздушный фильтр",
+    "partNumber": "AF-2022",
+    "price": 600,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 4,
+    "partName": "Свечи зажигания",
+    "partNumber": "SP-2021",
+    "price": 1200,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 5,
+    "partName": "Ремень ГРМ",
+    "partNumber": "TB-2020",
+    "price": 2500,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 6,
+    "partName": "Амортизатор",
+    "partNumber": "SH-2021",
+    "price": 3000,
+    "availability": "В наличии",
+    "type": "Подвеска"
+  },
+  {
+    "id": 7,
+    "partName": "Топливный насос",
+    "partNumber": "FP-2022",
+    "price": 4500,
+    "availability": "В наличии",
+    "type": "Топливная система"
+  },
+  {
+    "id": 8,
+    "partName": "Радиатор",
+    "partNumber": "RC-2021",
+    "price": 5000,
+    "availability": "В наличии",
+    "type": "Охлаждение"
+  },
+  {
+    "id": 9,
+    "partName": "Генератор",
+    "partNumber": "GN-2020",
+    "price": 7000,
+    "availability": "В наличии",
+    "type": "Электрика"
+  },
+  {
+    "id": 10,
+    "partName": "Аккумулятор",
+    "partNumber": "BA-2021",
+    "price": 6000,
+    "availability": "В наличии",
+    "type": "Электрика"
+  },
+  {
+    "id": 11,
+    "partName": "Топливный фильтр",
+    "partNumber": "FF-2021",
+    "price": 900,
+    "availability": "В наличии",
+    "type": "Топливная система"
+  },
+  {
+    "id": 12,
+    "partName": "Сальник коленвала",
+    "partNumber": "SC-2020",
+    "price": 1200,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 13,
+    "partName": "Прокладка головки блока",
+    "partNumber": "GSK-2021",
+    "price": 2500,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 14,
+    "partName": "Ремень генератора",
+    "partNumber": "GB-2020",
+    "price": 1000,
+    "availability": "В наличии",
+    "type": "Электрика"
+  },
+  {
+    "id": 15,
+    "partName": "Тормозной диск",
+    "partNumber": "BD-2021",
+    "price": 3000,
+    "availability": "В наличии",
+    "type": "Тормозная система"
+  },
+  {
+    "id": 16,
+    "partName": "Карбюратор",
+    "partNumber": "CB-2022",
+    "price": 5000,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 17,
+    "partName": "Топливная рейка",
+    "partNumber": "FR-2021",
+    "price": 3500,
+    "availability": "В наличии",
+    "type": "Топливная система"
+  },
+  {
+    "id": 18,
+    "partName": "Система охлаждения",
+    "partNumber": "CS-2022",
+    "price": 4000,
+    "availability": "В наличии",
+    "type": "Охлаждение"
+  },
+  {
+    "id": 19,
+    "partName": "Клапан EGR",
+    "partNumber": "EGR-2021",
+    "price": 2200,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 20,
+    "partName": "Пробка радиатора",
+    "partNumber": "RCAP-2020",
+    "price": 300,
+    "availability": "В наличии",
+    "type": "Охлаждение"
+  },
+  {
+    "id": 21,
+    "partName": "Шаровая опора",
+    "partNumber": "BP-2021",
+    "price": 1500,
+    "availability": "В наличии",
+    "type": "Подвеска"
+  },
+  {
+    "id": 22,
+    "partName": "Рычаг подвески",
+    "partNumber": "LA-2022",
+    "price": 3500,
+    "availability": "В наличии",
+    "type": "Подвеска"
+  },
+  {
+    "id": 23,
+    "partName": "Топливный бак",
+    "partNumber": "FTB-2021",
+    "price": 8000,
+    "availability": "В наличии",
+    "type": "Топливная система"
+  },
+  {
+    "id": 24,
+    "partName": "Кулиса переключения передач",
+    "partNumber": "CP-2020",
+    "price": 2500,
+    "availability": "В наличии",
+    "type": "Трансмиссия"
+  },
+  {
+    "id": 25,
+    "partName": "Сцепление",
+    "partNumber": "CL-2021",
+    "price": 4000,
+    "availability": "В наличии",
+    "type": "Трансмиссия"
+  },
+  {
+    "id": 26,
+    "partName": "Масляный насос",
+    "partNumber": "OP-2022",
+    "price": 3000,
+    "availability": "В наличии",
+    "type": "Двигатель"
+  },
+  {
+    "id": 27,
+    "partName": "Ремень кондиционера",
+    "partNumber": "ACB-2021",
+    "price": 1200,
+    "availability": "В наличии",
+    "type": "Климатическая система"
+  },
+  {
+    "id": 28,
+    "partName": "Фара",
+    "partNumber": "HL-2020",
+    "price": 2500,
+    "availability": "В наличии",
+    "type": "Освещение"
+  },
+  {
+    "id": 29,
+    "partName": "Задний фонарь",
+    "partNumber": "RL-2021",
+    "price": 2000,
+    "availability": "В наличии",
+    "type": "Освещение"
+  },
+  {
+    "id": 30,
+    "partName": "Стекло лобовое",
+    "partNumber": "WS-2022",
+    "price": 5000,
+    "availability": "В наличии",
+    "type": "Стекла"
+  },
+  {
+    "id": 31,
+    "partName": "Дворник",
+    "partNumber": "WIP-2021",
+    "price": 800,
+    "availability": "В наличии",
+    "type": "Стекла"
+  },
+  {
+    "id": 32,
+    "partName": "Крышка багажника",
+    "partNumber": "TR-2020",
+    "price": 3000,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 33,
+    "partName": "Бампер передний",
+    "partNumber": "FB-2021",
+    "price": 4000,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 34,
+    "partName": "Бампер задний",
+    "partNumber": "RB-2021",
+    "price": 4000,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 35,
+    "partName": "Крыло переднее",
+    "partNumber": "FF-2021",
+    "price": 2500,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 36,
+    "partName": "Крыло заднее",
+    "partNumber": "RF-2021",
+    "price": 2500,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 37,
+    "partName": "Дверь передняя",
+    "partNumber": "FD-2021",
+    "price": 6000,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 38,
+    "partName": "Дверь задняя",
+    "partNumber": "RD-2021",
+    "price": 6000,
+    "availability": "В наличии",
+    "type": "Кузов"
+  },
+  {
+    "id": 39,
+    "partName": "Сиденье переднее",
+    "partNumber": "FS-2021",
+    "price": 8000,
+    "availability": "В наличии",
+    "type": "Интерьер"
+  },
+  {
+    "id": 40,
+    "partName": "Сиденье заднее",
+    "partNumber": "RS-2021",
+    "price": 8000,
+    "availability": "В наличии",
+    "type": "Интерьер"
+  }
+]
